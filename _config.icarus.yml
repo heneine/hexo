@@ -108,7 +108,7 @@ navbar:
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/heneine'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -121,7 +121,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/heneine'
 # Article related configurations
 article:
     # Code highlight settings
@@ -183,14 +183,14 @@ widgets:
     # Profile widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: profile
         # Author name
-        author: Your name
+        author: heneine
         # Author title
-        author_title: Your title
+        author_title: henesys.in
         # Author's current location
-        location: Your location
+        location: Incheon, Korea
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -219,7 +219,7 @@ widgets:
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: toc
         # Whether to show the index of each heading
         index: true
@@ -230,7 +230,7 @@ widgets:
     # Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: links
         # Names and URLs of the sites
         links:
@@ -238,27 +238,27 @@ widgets:
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: categories
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: recent_posts
     # Archives widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: archives
     # Tags widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: tags
     # Google FeedBurner email subscription widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: subscribe_email
         # Hint text under the email input
         description: 
@@ -267,7 +267,7 @@ widgets:
     # Google AdSense unit configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: #adsense
         # AdSense client ID
         client_id: ''
