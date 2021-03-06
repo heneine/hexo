@@ -1,5 +1,5 @@
 ---
-title: 210302-archive
+title: 2021년 3월 2일
 date: 2021-03-02 19:11:44
 categories: [Daily-Archive]
 tags:
